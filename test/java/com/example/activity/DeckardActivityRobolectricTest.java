@@ -11,7 +11,7 @@ import static org.fest.assertions.api.Assertions.assertThat;
 import static org.junit.Assert.assertTrue;
 
 @RunWith(RobolectricTestRunner.class)
-public class DeckardActivityRobolectricTest {
+publi class DeckardActivityRobolectricTest {
 
     @Test
     public void testSomething() throws Exception {
